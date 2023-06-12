@@ -11,6 +11,9 @@ for num in list1:
     if num>0:
         print(num)
         #output
+        12
+        5
+        64
 
 
 # In[12]:
@@ -23,9 +26,13 @@ for num in list2:
     if num>0:
         print(num)
         #output2
+        12
+        14
+        3
 
 
 # In[ ]:
+
 
 
 
