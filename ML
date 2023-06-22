@@ -1,0 +1,12 @@
+print( 'python {}'.format(sys.version))
+python 3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]
+import scipy
+print( 'scipy {}'.format(sys.version))
+scipy 3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]
+import numpy
+print('numpy {}'.format(sys.version))
+numpy 3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]
+import matplotlib
+print('matplotlib {}'.format(sys.version))
+matplotlib 3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]
+
