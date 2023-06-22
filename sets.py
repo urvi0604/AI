@@ -3,7 +3,7 @@
 
 # In[4]:
 
-
+#Intersection
 E = {0,1,2,3,4}
 N = {2,4,5,6,8}
 result = E.intersection(N)
@@ -12,7 +12,7 @@ print(result)
 
 # In[6]:
 
-
+#Union
 E = {0,1,2,3}
 N = {4,5,6,8}
 result = E.union(N)
@@ -21,7 +21,7 @@ print(result)
 
 # In[11]:
 
-
+Difference
 E = {0,1,2,3,4,6,8}
 N = {1,2,3,4,}
 result = E.difference(N)
@@ -35,7 +35,7 @@ print(result)
 
 # In[1]:
 
-
+Symmetric difference
 E = {0,1,2,3,4,}
 N = {5,4,6,8}
 result= E.symmetric_difference(N)
